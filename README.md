@@ -1,6 +1,7 @@
 # octal
 
 Interpret a number as base 8.
+
 Same as the `0<number>` notation but works in strict mode / standard js.
 
 ```
