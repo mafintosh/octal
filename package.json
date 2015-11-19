@@ -1,7 +1,7 @@
 {
   "name": "octal",
   "version": "0.0.0",
-  "description": "WIP - nothing to see here",
+  "description": "Interpret a number as base 8",
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
